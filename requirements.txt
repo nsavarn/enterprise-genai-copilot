@@ -1,0 +1,17 @@
+langchain
+faiss-cpu
+sentence-transformers
+openai
+fastapi
+uvicorn
+ragas
+pydantic
+numpy
+pandas
+scikit-learn
+
+# Development Tools
+pytest
+black
+mypy
+flake8
